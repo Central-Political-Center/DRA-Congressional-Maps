@@ -1,4 +1,4 @@
-| State     | Composition  | Link                                                                                          |
+| State     | Composition  | DRA Link                                                                                          |
 | --------- | ------------ | --------------------------------------------------------------------------------------------- |
 | Alabama   | 7R–0D        | [View Map](https://davesredistricting.org/maps#viewmap::62dd403f-c275-40e7-b697-f36b34365ca5) |
 | Louisiana | 6R–0D        | [View Map](https://davesredistricting.org/maps#viewmap::8a6a8fe0-9540-4894-9b8e-b6b4a84f4d03) |
