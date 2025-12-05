@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="CPC LOGO (1).png" width="200">
+</p>
+
 | State     | Composition  | DRA Link                                                                                          |
 | --------- | ------------ | --------------------------------------------------------------------------------------------- |
 | Alabama   | 7R–0D        | [View Map](https://davesredistricting.org/maps#viewmap::62dd403f-c275-40e7-b697-f36b34365ca5) |
